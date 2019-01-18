@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>McAleer&#39;s Blogs</title>
-    <link>/</link>
+    <link>/blogs/</link>
     <description>Recent content on McAleer&#39;s Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Blog</title>
-      <link>/2019/01/18/my-first-blog/</link>
+      <link>/blogs/2019/01/18/my-first-blog/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/18/my-first-blog/</guid>
+      <guid>/blogs/2019/01/18/my-first-blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/blogs/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/blogs/about/</guid>
       <description>This is my wonderful new blog site for those fascinated by the redisribution of Space Hoppers. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
